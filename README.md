@@ -8,7 +8,7 @@ Master’s Degree Thesis in Physics of Complex Systems (A.Y. 2023/2024)
 
 ## Descrizione
 
-Questo repository contiene il codice e la documentazione associati alla tesi di laurea magistrale di Pierpaolo Caredda, svolta sotto la supervisione dei Prof. Sofia Fellini e Luca Ridolfi. L'obiettivo dello studio è analizzare la qualità dell'aria nell’area urbana di Torino dal 2000 al 2022, con un focus su:
+Questo repository contiene il codice e la documentazione associati alla mia tesi di laurea magistrale, svolta sotto la supervisione dei Prof. Sofia Fellini e Luca Ridolfi. L'obiettivo dello studio è analizzare la qualità dell'aria nell’area urbana di Torino dal 2000 al 2022, con un focus su:
 
 * Ossidi di azoto (NO, NO₂, NOₓ)
 * Particolato (PM10, PM2.5)
