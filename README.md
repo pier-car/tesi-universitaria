@@ -88,7 +88,7 @@ python src/models/run_sirane.py --config src/models/config.toml
 
 ## Autore
 
-Pierpaolo Caredda – [pierpaolo.caredda@example.com](mailto:pier.car.pier@gmail.com)
+Pierpaolo Careddu – [pier.car.pier@gmail.com](mailto:pier.car.pier@gmail.com)
 
 Per domande o contributi, apri una *issue* o invia una *pull request*.
 
