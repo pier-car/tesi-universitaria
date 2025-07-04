@@ -1,0 +1,26 @@
+# Virtual environment
+venv/
+
+# Dati grezzi
+src/data/raw/
+data/raw/
+
+# File temporanei di Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Output di analisi
+results/
+
+# Configurazioni locali (se ne usi)
+.env
+*.local
+
+# File di sistema
+.DS_Store
+Thumbs.db
+
